@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#container{
+    position: relative;
+    width: 240px;
+    height: 480px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+#logo-1{
+    position: absolute;
+    width: 240px;
+    height: 480px;  
+    top:0;
+}
+#logo-2{
+    position: absolute;
+    width: 240px;
+    height: 480px;  
+    top: -122px;
+}
+#move{
+    position: absolute;
+    width: 2400px;
+    height: 480px;
+    overflow: hidden;
+    top: 0;
+}
+#hole-1{
+    position: relative;
+    width: 221px;
+    height: 210px;
+    top: 134px;
+    left: 10px;
+    border-radius: 106px;
+    transform: translateX(233px);
+    overflow: hidden  
+}
+#hole-2{
+    position: relative;
+    width: 221px;
+    height: 210px;
+    top: -77px;
+    left: 10px;
+    border-radius: 106px;
+    transform: translateX(699px);
+    overflow: hidden  
+}
+#hole-3{
+    position: relative;
+    width: 221px;
+    height: 210px;
+    top: -287px;
+    left: 10px;
+    border-radius: 106px;
+    transform: translateX(1165px);
+    overflow: hidden  
+}
+#hole-4{
+    position: relative;
+    width: 221px;
+    height: 210px;
+    top: -493px;
+    left: -25px;
+    border-radius: 106px;
+    transform: translateX(1669px);
+    overflow: hidden  
+}
+
+#circle-1{
+    position: absolute;
+    width: 221px;
+    height: 210px;
+    top: -93px;
+    transform: translateX(-103px);
+}
+#circle-2{
+    position: absolute;
+    width: 221px;
+    height: 210px;
+    top: -72px; 
+
+}
+#circle-3{
+    position: absolute;
+    width: 221px;
+    height: 210px;
+    top: -72px;
+    transform: translateX(-103px);
+
+}
+#circle-4{
+    position: absolute;
+    width: 221px;
+    height: 210px;
+    top: -72px;
+}
+#circle-5{
+    position: absolute;
+    width: 221px;
+    height: 210px;
+    top: -72px;
+    transform: translateX(-103px);
+
+}
+#circle-6{
+    position: absolute;
+    width: 221px;
+    height: 210px;
+    top: -72px;
+}
+#circle-7{
+    position: absolute;
+    width: 221px;
+    height: 210px;
+    top: -72px;
+    transform: translateX(-103px);
+
+}
+#circle-8{
+    position: absolute;
+    width: 221px;
+    height: 210px;
+    top: -72px;
+}
+#copy-1{
+    position: absolute;
+    width: 240px;
+    top: -73px;
+    left: -27px;
+}
+#copy-2{
+    position: absolute;
+    width: 240px;
+    top: -73px;
+    left: -27px;
+    transform: translateX(466px);
+}
+#copy-3{
+    position: absolute;
+    width: 240px;
+    top: -73px;
+    left: -27px;
+    transform: translateX(932px);
+}
+#copy-4{
+    position: absolute;
+    width: 240px;
+    top: -73px;
+    left: -27px;
+    transform: translateX(1398px);
+}
+#copy-5{
+    position: absolute;
+    width: 240px;
+    top: -73px;
+    left: -27px;
+    transform: translateX(1864px);
+}
+#cta{
+    position: absolute;
+top:1px;
+}
+#logo-3{
+    position: absolute;
+top:1px;
+}
